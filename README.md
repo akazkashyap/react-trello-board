@@ -1,5 +1,5 @@
 Trello Board
-Its built from scracth with the use of React-dnd library.
+Its built from scracth without the use of React-dnd library.
 
 with the help of:
 -React
